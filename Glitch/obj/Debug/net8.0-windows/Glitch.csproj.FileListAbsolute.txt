@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Glitch\bin\Debug\net8.0-windows\Glitch.exe
+C:\Users\hp\Desktop\Glitch\bin\Debug\net8.0-windows\Glitch.deps.json
+C:\Users\hp\Desktop\Glitch\bin\Debug\net8.0-windows\Glitch.runtimeconfig.json
+C:\Users\hp\Desktop\Glitch\bin\Debug\net8.0-windows\Glitch.dll
+C:\Users\hp\Desktop\Glitch\bin\Debug\net8.0-windows\Glitch.pdb
+C:\Users\hp\Desktop\Glitch\obj\Debug\net8.0-windows\Glitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Glitch\obj\Debug\net8.0-windows\Glitch.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Glitch\obj\Debug\net8.0-windows\Glitch.AssemblyInfo.cs
+C:\Users\hp\Desktop\Glitch\obj\Debug\net8.0-windows\Glitch.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Glitch\obj\Debug\net8.0-windows\Glitch.dll
+C:\Users\hp\Desktop\Glitch\obj\Debug\net8.0-windows\refint\Glitch.dll
+C:\Users\hp\Desktop\Glitch\obj\Debug\net8.0-windows\Glitch.pdb
+C:\Users\hp\Desktop\Glitch\obj\Debug\net8.0-windows\Glitch.genruntimeconfig.cache
+C:\Users\hp\Desktop\Glitch\obj\Debug\net8.0-windows\ref\Glitch.dll
