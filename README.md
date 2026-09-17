@@ -24,5 +24,12 @@ These Scripts are developed for trying and seeing digital glitches.
     then run :
      `dotnet run`.
     to stop , just press ctrl+C in the terminal.
+ python scripts:
+    just double click the script.
+    To stop , press esc.
+    if it didn't work , try changing the active window using alt+tab. and you'll find the Glitch window.
+    then press esc.
+
+**Note : this project is not responsable about any minor or major damages or any problems happening to your computer**
   
   
