@@ -6,9 +6,12 @@ These Scripts are developed for trying and seeing digital glitches.
 
 
 **REQUIREMENTS :**
+  
   1.Glitch C#:
     - Microsoft .NET SDK 10.0.204 (x64).
     **_install from[https://dotnet.microsoft.com/en-us/download/dotnet/10.0](url)_**
+
+    
   2.Python scripts:
     mss – for screen capturing.
     numpy – for array manipulation.
@@ -24,6 +27,8 @@ These Scripts are developed for trying and seeing digital glitches.
     then run :
      `dotnet run`.
     to stop , just press ctrl+C in the terminal.
+
+
  python scripts:
     just double click the script.
     To stop , press esc.
