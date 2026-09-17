@@ -31,6 +31,7 @@ These Scripts are developed for trying and seeing digital glitches.
 
 
 -  python scripts:
+  
     just double click the script.
     To stop , press esc.
     if it didn't work , try changing the active window using alt+tab. and you'll find the Glitch window.
