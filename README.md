@@ -21,15 +21,16 @@ These Scripts are developed for trying and seeing digital glitches.
 
 **HOW TO RUN :**
   
-  Glitch C#:
-    after downloading the folder from this repo , shift+right click the folder , click "copy as path" ,and     run this command in the terminal :
+-   Glitch C#:
+
+  after downloading the folder from this repo , shift+right click the folder , click "copy as path" ,and     run this command in the terminal :
      `cd -d "the path you copied"`.
     then run :
      `dotnet run`.
     to stop , just press ctrl+C in the terminal.
 
 
- python scripts:
+-  python scripts:
     just double click the script.
     To stop , press esc.
     if it didn't work , try changing the active window using alt+tab. and you'll find the Glitch window.
